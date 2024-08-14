@@ -22,10 +22,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I currently finished Apollo 11 Project 🚀</li>
-            <li> 🎓 I am currently doing python projects <img align="center"
-                    src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
-                    width="16" /></li>
+            <li> 👨🏻‍💻 I currently make web, applications and extensions for my customers 💕</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:jaroba0@gmail.com" target="_blank">jaroba0@gmail.com</a></li>
