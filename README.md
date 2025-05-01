@@ -28,7 +28,7 @@
                 <a href="mailto:jaroba0@gmail.com" target="_blank">jaroba0@gmail.com</a></li>
             <li >🚀 My Pretlak profile: <a href="https://pretlak.com/freelancers/detail/gxSZK3AFy" target="_blank">link</a>  </li>
             <li>👀 Take a look at <a href="https://www.jaroslav.website/" target="_blank">My Portfolio</a></li>
-            <li>📄 Here's my <a href="./ZivotopisBarabas.pdf" target="_blank">Resume</a></li>
+            <li>📄 Here's my <a href="./ZivotopisBarabas-new.pdf" target="_blank">Resume</a></li>
         </ul>
     </div>
     <div>
